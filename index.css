@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#carouselExample {
+    margin-top: 50px;
+}
+
+.card-text {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
